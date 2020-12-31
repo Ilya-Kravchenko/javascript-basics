@@ -111,7 +111,66 @@
     
 // }
 
+// function showMassage (from,text) {
+//     alert (from + ':' + text)
+// }
 
-sasas
+// showMassage ('Аня ', 'Привет!')
+// showMassage ('Аня ', 'Как дела')
+
+// function showMassage (from, text){
+//     from = '*' + from + '*';
+//     alert (from + ':' + text ) 
+// }
+// let from ='Аня'
+
+// showMassage (from , 'Привет')
 
 
+
+// function showMassage  (from, text ){
+//     if ( text === undefined){
+//         text = 'не добавлен';
+//     }
+//     alert (from + ':' + text)
+// }
+
+
+// function sum (a,b){
+//     return  a+b
+// }
+// let result = sum (4,2)
+// alert (result)
+// function sum (a,b){
+//     return a+b
+// } 
+// let result = sum (10,10)
+
+// alert (result)
+
+
+// function sum (a,b){
+// return (a+b)
+// }
+
+// let result = sum (10,10)
+
+// alert (result)
+
+
+// function cheakAge (age){
+//     if (age>18) {
+
+//         return true;
+//     } else {
+//         return confirm ('А родители разрешили?')
+//     }    
+// }
+
+// let age = prompt ('Сколько вам лет ?', 18)
+
+// if ( cheakAge (age)) {
+//     alert  ('Доступ получен')
+// } else {
+//     alert ('Доступ закрыт')
+// }
