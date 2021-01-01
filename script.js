@@ -111,6 +111,116 @@
     
 // }
 
+
+//  let userName ='Вася'
+ 
+//  function showMessage (){
+//      let message = 'Привет' + userName
+//      alert ('message')
+//  }
+//  showMassage ()
+
+
+// let userName ='Вася'
+
+// function showMassage (){
+//     let userName ='Петя'
+//     let mesaage ='Привет'
+//     alert (message)
+// }
+//     alert (userName)
+//     showMassage ()
+
+//     alert (userName)
+
+
+
+// let userName = 'Вася'
+
+// function showmassage (){
+//     let userName = 'Петя'
+
+//     let message = 'Привет '  + userName
+//     alert (message)
+// }
+
+// showmessage ();
+
+// alert (userName)
+
+
+// function showMassage (from , text){
+//     alert (from,':',text)
+// }
+
+// showMassage ('Привет' , 'Аня!')
+// showMassage ('Как дела ?', 'Аня')\
+
+
+
+// function showMassage (from, text){
+//     from = '+' = from = '+';
+//     alert ( from + ':' + text)
+// }
+
+// let from ='Аня'
+
+// showMassage (from, 'привет')
+
+// alert (from)
+//  let from = 10
+// function showMessage (from, text){
+//     if (text === undefined){
+//         text = 'текст не добавлен';
+//     }
+//     alert (from + ":" + text)
+// }
+
+
+// function sum (a,b) {
+//     return a+b
+// }
+
+// let result = sum (1,2)
+// alert (result)
+
+// function checkAge (age){
+//     if (age > 18) {
+//         return true;
+//     } else {
+//         return confirm ('А, родители разрешили ?')
+//     }
+// }
+
+// let age = prompt ('Сколько вам лет ?' , 18)
+
+// if (checkAge (age)) {
+//     alert ('Доступ получен');
+// } else {
+//     alert ('Доступ закрыт')
+// }
+
+
+
+
+// function checkAge (age) {
+//     if (age > 18) {
+//         return true
+//     } else{
+//         return confirm ('А, родители ращрешили ?')
+//     }
+// }
+//     let age = prompt ('Сколько вам лет ?', 18)
+
+//     if (checkAge (age)) {
+//         alert ('Доступ открыт')
+//     } else {
+//         alert ('Доступ закрыт ')
+//     }
+
+
+
+
 // function showMassage (from,text) {
 //     alert (from + ':' + text)
 // }
@@ -174,3 +284,42 @@
 // } else {
 //     alert ('Доступ закрыт')
 // }
+
+// function sum (a,b){
+//     return a+b
+// }
+//     result = sum (10,10)
+//     alert (result)
+
+
+
+// return (
+//     some + long + expression 
+//     + or +
+//     whatever * f(a) + f(b)
+// )
+
+
+
+// function showPrimes (n) {
+//     nextPrime: for (let i = 2; i < n; i++){
+//         for ( let j = 2; j < i; i ++){
+//             if ( i % j ==0 ) continue nextPrime ;
+//         }
+//             alert (i)
+//     }
+// }
+
+
+
+
+// function showPrimes(n) {
+//     nextPrime: for (let i = 2; i < n; i++) {
+  
+//       for (let j = 2; j < i; j++) {
+//         if (i % j == 0) continue nextPrime;
+//       }
+  
+//       alert( i ); // простое
+//     }
+//   }
