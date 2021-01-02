@@ -323,3 +323,245 @@
 //       alert( i ); // простое
 //     }
 //   }
+
+// function sayHu (){
+//     alert ('Привет')
+// }
+
+// 
+
+
+// function sayHi () {
+//     alert ('Привет')
+// }
+
+// let func = sayHi 
+
+// func ()
+// sayHi ()
+
+
+  
+
+// function  sayHi () {
+//     alert ('Привет')
+// }
+
+// let xxx = sayHi
+// let ddd = sayHi
+
+// xxx ()
+// ddd ()
+
+
+
+
+// function sayHi () {
+//     alert ('hello')
+// }
+
+// let old = sayHi
+
+// let omg = sayHi
+
+
+// old ()
+
+
+// omg ()
+
+
+
+// function ask (question,yes,no){
+//     if (confirm(question)) yes ()
+//     else no ()
+// }
+
+// function show0k (){
+//     alert ('Вы согласный')
+// }
+
+// function showCanel (){
+//     alert ('Вы отменили выполнение')
+// }
+
+// ask ('Вы согласный ?' , show0k , showcanel)
+
+
+
+// function ask (question,yes,no){
+//     if (confirm (question)) yes ()
+//     else no ()
+// }
+
+// ask (
+//     "Вы согласный ?",
+//     function () { alert ('Вы согласились');},
+//     function () { alert ('Вы отменили выполнение');},
+// );
+
+
+
+
+
+// 
+
+
+// function ask (question,yes,no){
+//     if (confirm(question)) yes ()
+//     else no ();
+// }
+
+// ask (
+//     'Вы уверены?',
+// function () {alert ('окей');},
+// function () {alert ('Отмена');},
+// );
+
+
+
+
+// function ask (question,yes,no){
+//     if (confirm(question)) yes ()
+//         else no ();
+// } 
+
+// ask (
+//     'Что выбереш?',
+// function () {alert ('Правильно');},
+// function () {alert ('Не правильно');},
+
+// )
+
+// function ask (question,yes,no){
+//     if (confirm(question)) yes ()
+//     else no ();
+// }
+
+// ask (
+//     'Что выберешь?',
+// function () {alert ('правильно');},
+// function () {alert ('Не Правильно');},
+// )
+
+
+function sayHu (){
+    alert ('Привет')
+}
+
+
+
+
+function sayHi () {
+    alert ('Привет')
+}
+
+let func = sayHi 
+
+func ()
+sayHi ()
+
+
+  
+
+function  sayHi () {
+    alert ('Привет')
+}
+
+let xxx = sayHi
+let ddd = sayHi
+
+xxx ()
+ddd ()
+
+
+
+
+function sayHi () {
+    alert ('hello')
+}
+
+let old = sayHi
+
+let omg = sayHi
+
+
+old ()
+
+
+omg ()
+
+
+
+function ask (question,yes,no){
+    if (confirm(question)) yes ()
+    else no ()
+}
+
+function show0k (){
+    alert ('Вы согласный')
+}
+
+function showCanel (){
+    alert ('Вы отменили выполнение')
+}
+
+ask ('Вы согласный ?' , show0k , showcanel)
+
+
+
+function ask (question,yes,no){
+    if (confirm (question)) yes ()
+    else no ()
+}
+
+ask (
+    "Вы согласный ?",
+    function () { alert ('Вы согласились');},
+    function () { alert ('Вы отменили выполнение');},
+);
+
+
+
+
+
+
+
+
+function ask (question,yes,no){
+    if (confirm(question)) yes ()
+    else no ();
+}
+
+ask (
+    'Вы уверены?',
+function () {alert ('окей');},
+function () {alert ('Отмена');},
+);
+
+
+
+
+function ask (question,yes,no){
+    if (confirm(question)) yes ()
+        else no ();
+} 
+
+ask (
+    'Что выбереш?',
+function () {alert ('Правильно');},
+function () {alert ('Не правильно');},
+
+)
+
+function ask (question,yes,no){
+    if (confirm(question)) yes ()
+    else no ();
+}
+
+ask (
+    'Что выберешь?',
+function () {alert ('правильно');},
+function () {alert ('Не Правильно');},
+)
+
