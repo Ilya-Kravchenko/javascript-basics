@@ -565,3 +565,104 @@ function () {alert ('правильно');},
 function () {alert ('Не Правильно');},
 )
 
+
+// sayHi ('Вася');
+
+// function sayHi (name) {
+//     alert (`Привет,${name}`);
+// }
+
+
+
+// let age = 16 
+// if (age < 18) {
+//     welcome ();
+//     function welcome (){
+//         alert ('привет!')
+//     } 
+//     welcome ()
+// } else {
+//     function welcome () {
+//         alert ('здраствуйте!')
+//     }
+// }
+
+// welcome ();
+
+
+// let age = prompt ('Сколько Вам лет ?', 18);
+// let welcome;
+
+// if (age < 18) {
+//     welcome = function (){
+//         alert ('Привет');
+//     };
+// } else {
+//     welcome = function (){
+//         alert ('Здраствуйте!');
+//     };
+// }
+// welcome ();
+
+
+
+
+
+
+// let age = prompt ('Сколько вам Лет?',18);
+
+// let welcome = (age < 18)?
+// function () {alert ('Привет');}:
+// function () {alert ('Здраствуйте');};
+// welcome ()
+
+
+
+
+// let age = prompt ('Сколько вам лет?')
+
+
+// let  welcome =  ( age < 18) ?
+// function () {alert ('привет');}:
+// function () {alert ('Здраствуйте');};
+
+// let age = prompt ('Сколько лет ?', 18);
+// let welcome = (age < 18)?
+// function () { alert ('Привет');}:
+// function () { alert ('Привет');};
+  
+  // welcome ()
+  
+//   let func = (arg1, arg2, argN) => expreccion
+  
+
+
+// let sum = (a,b) => a+b;
+// alert (sum(1,2))
+  
+  
+  
+
+// let sum = (a,b,y) => a+b*y
+
+// alert (sum(4,2,3))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let sum = (a,b,u) => a+b*u 
+// alert (sum(1,3,4))
+
