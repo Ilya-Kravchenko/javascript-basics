@@ -666,3 +666,16 @@ function () {alert ('Не Правильно');},
 // let sum = (a,b,u) => a+b*u 
 // alert (sum(1,3,4))
 
+
+// let age = prompt ('Скольво вам Лет ', 18)
+// let welcome = (age < 18)?
+// () => alert ('Привет'):
+// () => alert ('Здраствуйте');
+// welcome ();
+// 
+
+// let sum = (a,b) => {
+//     let result = a+b;
+//     return result;
+// };
+// alert (sum(1,2))
