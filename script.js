@@ -679,3 +679,49 @@ function () {alert ('Не Правильно');},
 //     return result;
 // };
 // alert (sum(1,2))
+
+// let sum = (a,b) => a+b
+// alert (sum(1,2))
+
+
+
+
+
+// let double = n => n * 2;
+
+// alert (double(3))
+
+// 
+// let age = prompt ('Сколько вам лет ?',18)
+
+// let welcome = (age < 18)?
+// () => alert ('Привет'):
+// () => alert ('Привет');
+// 
+// welcome ()
+
+// let userName = prompt ('Ведите Имя ', 'Алиса');
+// let isTeaWanted = confirm ('Вы хотите чаю?');
+// 
+// alert ('посититель:' + userName);
+// alert ('чай:' + isTeaWanted);
+
+
+
+// alert (1 + '2')
+
+
+// let age = prompt ('Сколько вам лет ?') 
+// switch (age){
+//     case 18:
+//     alert ('Добро пожаловать')
+//     break;   
+
+//     case 20:
+//     alert ('нет')
+//     break;   
+
+//     default:
+//         alert ('Пока')
+//         break;   
+//     }
