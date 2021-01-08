@@ -725,3 +725,18 @@ function () {alert ('Не Правильно');},
 //         alert ('Пока')
 //         break;   
 //     }
+
+
+
+   // i = i ? i < i ? Math.max(0, len + i) : i : 0;
+
+
+    // let user = aurhenticateUser();
+
+    // function render() {
+    //   let user = anothevalue();
+
+    //   много букв
+
+
+    // }
