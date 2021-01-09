@@ -740,3 +740,25 @@ function () {alert ('Не Правильно');},
 
 
     // }
+    const number =+ prompt('Ведите число между 0 - 4',1);
+    switch (number) {
+
+      case 0:
+      alert('Вы можете вести число 0');
+      break;
+
+      case 1:
+      alert('Вы вели число 1');
+      break;
+
+      case 2,3:
+      alert('Вы вели число 2,3');
+      break;
+
+      case 4:
+      alert('Вы вели чесло 5');
+      break;
+      
+      default:
+      alert('Вы вели неизсвестно число')
+    }
