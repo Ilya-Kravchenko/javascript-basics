@@ -765,3 +765,10 @@ function () {alert ('Не Правильно');},
 
 
 const sum = (x, y) => x + y 
+
+// descripbe ('pow', function() {
+
+//   it ('Возводит в степень n', function () {
+//     AuthenticatorAssertionResponse.equal(pow(2,3),8);
+//   });
+// });
