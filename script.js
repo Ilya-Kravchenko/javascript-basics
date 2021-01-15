@@ -772,3 +772,18 @@ const sum = (x, y) => x + y
 //     AuthenticatorAssertionResponse.equal(pow(2,3),8);
 //   });
 // });
+// let userName = prompt('во сколько нначинаеться аперетив ?');
+// if (userName =='12-00') {
+//     let pass = prompt('Ведите пароль');
+//     if (pass == '123') {
+//         alert(' добро пожаловать')
+//     } else if ( pass == '' || pass == null){
+//         alert(' отмена')
+//     } else {
+//         alert('Вели не правильно пароль')
+//     }
+// } else if ( userName =='' || userName == null){
+//     alert('Отмена')
+// } else {
+//     alert('Вели не правильно имя пользователя')
+// }
