@@ -787,3 +787,12 @@ const sum = (x, y) => x + y
 // } else {
 //     alert('Вели не правильно имя пользователя')
 // }
+
+
+let obj = {
+    for: 1,
+    return: 2,
+    let: 4,
+}
+
+alert( obj.for + obj.let + obj.return);
