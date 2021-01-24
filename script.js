@@ -796,3 +796,14 @@ let obj = {
 }
 
 alert( obj.for + obj.let + obj.return);
+
+let user = {
+    name: 'Джжон',
+    age: 30,
+};
+
+user.SayHi = function() {
+    alert('Привет');
+};
+
+user.SayHi()
