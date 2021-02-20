@@ -4,6 +4,7 @@
 //         alert ('нет')
 //         break;
 //         case 4:
+
 //             alert ('Хорошо')
 //             break;
 //             case 5:
