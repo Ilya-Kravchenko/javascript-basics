@@ -842,3 +842,16 @@ calculator.read();
 
 alert( "Sum=" + calculator.sum() );
 alert( "Mul=" + calculator.mul() );
+
+
+switch (carColor) {
+    case 'green':
+        console.log('машина зеленого цвета')
+        break
+    case 'blue':
+        console.log('машина голубого цвета')
+        break 
+    case
+    defult:
+    console.log('Машина не известного цевета')
+}
