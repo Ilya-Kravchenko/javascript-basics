@@ -853,5 +853,5 @@ switch (carColor) {
         break 
     case
     defult:
-    console.log('Машина не известного цевета')
+    console.log('Машина не известного цевета'). 
 }
