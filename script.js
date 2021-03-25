@@ -2,7 +2,7 @@
 // switch (a){
 //     case 3:
 //         alert ('нет')
-//         break;
+//         break; 
 //         case 4:
 
 //             alert ('Хорошо')
