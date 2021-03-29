@@ -8,7 +8,7 @@
 //             alert ('Хорошо')
 //             break;
 //             case 5:
-//                 alert ('много')
+//                 alert ('много'). 
 //                 break;
 //                 defult:
 //                 alert('Нет такого значений')
