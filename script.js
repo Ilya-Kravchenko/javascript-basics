@@ -3,7 +3,7 @@
 //     case 3:
 //         alert ('нет')
 //         break; 
-//         case 4:
+//         case 4:  
  
 //             alert ('Хорошо')
 //             break;
