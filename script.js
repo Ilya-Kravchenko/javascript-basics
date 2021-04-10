@@ -342,7 +342,7 @@
 
 // function  sayHi () {
 //     alert ('Привет')
-// }
+// };
 
 // let xxx = sayHi
 // let ddd = sayHi
@@ -809,7 +809,7 @@ user.SayHi()
 function User(name) {
     this.name = name;
     this.isAdmin = false;
-}
+};
 
 let user = new User('Вася');
 
@@ -831,7 +831,7 @@ function Calculator() {
     this.mul = function() {
         return this.a * this.b;
         };
-}
+};
 
 let calculator = new Calculator();
 calculator.read();
@@ -850,4 +850,4 @@ switch (carColor) {
     case
     defult:
     console.log('Машина не известного цевета'). 
-}
+};
