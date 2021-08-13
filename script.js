@@ -1,6 +1,6 @@
 // let a = 2+2
 // switch (a){
-//     case 3:
+//     case 3:  
 //         alert ('нет')
 //         break; 
 //         case 4:  
