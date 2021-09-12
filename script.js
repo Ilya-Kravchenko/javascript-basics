@@ -68,7 +68,7 @@
 //   || browser == 'safari'
 //   || browser == 'Opera'){
 //       alert ('Okay we support these browser too');
-//   } else {
+//   } else {  
 //       alert ('We hope that this page looks ok!');
 //   }
 
