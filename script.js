@@ -10,7 +10,7 @@
 //             case 5:        
 //                 alert ('много').  
 //                 break;      
-//                 defult:
+//                 defult:   
 //                 alert('Нет такого значений');  
 // };
 
