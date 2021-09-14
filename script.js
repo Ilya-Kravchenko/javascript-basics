@@ -7,7 +7,7 @@
        
 //             alert ('Хорошо')   
 //             break;   
-//             case 5:     
+//             case 5:        
 //                 alert ('много').  
 //                 break;    
 //                 defult:
@@ -389,7 +389,7 @@
 // function ask (question,yes,no){
 //     if (confirm (question)) yes ()
 //     else no ()
-// }
+// }.  
 
 // ask (
 //     "Вы согласный ?",
