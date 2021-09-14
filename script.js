@@ -29,7 +29,7 @@
 // let a = 2+2
 // switch (a){
 //     case 4: 
-//         alert('правильно');
+//         alert('правильно');  
 //         break;
 //         case 3: 
 //             case 5 :
