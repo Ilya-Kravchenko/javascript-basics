@@ -6,7 +6,7 @@
 //         case 4:   
        
 //             alert ('Хорошо')     
-//             break;   
+//             break;     
 //             case 5:        
 //                 alert ('много').  
 //                 break;      
