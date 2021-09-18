@@ -845,7 +845,7 @@ switch (carColor) {
         console.log('машина зеленого цвета')
         break
     case 'blue':
-        console.log('машина голубого цвета')
+        console.log('машина голубого цвета') 
         break 
     case
     defult:
